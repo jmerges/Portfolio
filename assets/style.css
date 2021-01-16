@@ -4,10 +4,14 @@
     padding-bottom: 70px;   
 }
 
-#title, #subtitle {
+#title, #subtitle, #subtitleLink {
     color: rgb(0, 0, 0);
     font-weight: 700;
     border: none;
+}
+
+#subtitleLink:hover {
+    text-decoration: underline;
 }
 
 #title {
@@ -19,7 +23,6 @@
 }
 
 .subtitle {
-    padding-bottom: 10px;
     border-bottom: 5px solid white;
 }
 
