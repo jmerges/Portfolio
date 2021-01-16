@@ -1,0 +1,14 @@
+#head {
+    background-image: url("./WinterAbstract.jpg");
+    padding: 50px;
+    padding-bottom: 70px;   
+}
+
+#title, #subtitle {
+    color: rgb(250, 99, 222);
+    font-weight: 700;
+}
+
+#title {
+    font-size: 50px;
+}
