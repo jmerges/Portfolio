@@ -5,10 +5,14 @@
 }
 
 #title, #subtitle {
-    color: rgb(250, 99, 222);
+    color: rgb(248, 74, 216);
     font-weight: 700;
 }
 
 #title {
     font-size: 50px;
+}
+
+#project1Img {
+    padding: 0px;
 }
